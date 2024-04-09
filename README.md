@@ -2,6 +2,17 @@
 
 Repositorio con el código solución al desafío 3 **Mi Banco** perteneciente al módulo 7 **Acceso a datos en aplicaciones Node** de la beca **Desarrollo de aplicaciones Full Stack Javascript Trainee** dictada por Desafío Latam.
 
+## Tabla de Contenido
+
+- [Desafío Mi Banco](#desafío-mi-banco)
+  - [Tabla de Contenido](#tabla-de-contenido)
+  - [Requisitos](#requisitos)
+  - [Soluciones](#soluciones)
+    - [1.Crear una función asíncrona que registre una nueva transferencia utilizando una transacción SQL. Debe mostrar por consola la última transferencia registrada. (3 Puntos)](#1crear-una-función-asíncrona-que-registre-una-nueva-transferencia-utilizando-una-transacción-sql-debe-mostrar-por-consola-la-última-transferencia-registrada-3-puntos)
+    - [2.Realizar una función asíncrona que consulte la tabla de transferencias y retorne los últimos 10 registros de una cuenta en específico. (3 Puntos)](#2realizar-una-función-asíncrona-que-consulte-la-tabla-de-transferencias-y-retorne-los-últimos-10-registros-de-una-cuenta-en-específico-3-puntos)
+    - [3.Realizar una función asíncrona que consulte el saldo de una cuenta en específico.(2 Puntos)](#3realizar-una-función-asíncrona-que-consulte-el-saldo-de-una-cuenta-en-específico2-puntos)
+    - [4. En caso de haber un error en una transacción SQL, se debe retornar el error por consola. (2 Puntos)](#4-en-caso-de-haber-un-error-en-una-transacción-sql-se-debe-retornar-el-error-por-consola-2-puntos)
+
 ## Requisitos
 
 ![Requisito Hoja 1 y Hoja 2](./screenshots/requisitos_1_2.webp)
